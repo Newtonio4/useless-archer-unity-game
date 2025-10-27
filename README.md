@@ -1,2 +1,2 @@
 # useless-archer-unity-game
-Unity game 2d pixel art
+Unity 2d pixel game
